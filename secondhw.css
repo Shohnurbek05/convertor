@@ -1,0 +1,26 @@
+body {
+    background: lightblue;
+}
+
+.container {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+    gap: 10px;
+}
+
+.input1 {
+    padding: 10px 40px 10px 5px;
+    outline: none;
+    border: 1px solid lightblue;
+    border-radius: 5px;
+}
+
+.input2 {
+    padding: 10px 40px 10px 5px;
+    outline: none;
+    border: 1px solid lightblue;
+    border-radius: 5px;
+}
